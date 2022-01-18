@@ -1,3 +1,4 @@
-**/*/node_modules
-**/*/.DS_Store
-api/.env
+node_modules
+.DS_Store
+.env
+extension/webviews/styles/app.css
